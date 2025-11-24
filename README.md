@@ -3,7 +3,7 @@
 ## Team Members
 - Fisher
 - Neerja
-- Teammate 2
+- Siluni
 
 ## Project Goal
 Use Vancouver business license data (1997–2024) to answer:
