@@ -25,7 +25,7 @@ def fetch_page(dataset_id, offset, limit=100):
         return data.get("results", []), data.get("total_count", 0)
     except Exception as e:
         print(f"  ⚠️ Error at offset {offset}: {e}")
-        return [], 0
+        return [], 0  # FIXED: was just "exit"
 
 def fetch_all_records(dataset_id, max_workers=10):
     """Fetch all records using parallel requests"""
