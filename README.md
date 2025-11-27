@@ -59,10 +59,10 @@ Data sourced from Vancouver Open Data Portal:
 
 ## 🔗 Connecting Historical Crises to the Current Recession
 
-Our project does **not** attempt to fully model or predict the 2024–2025 recession.  
+Our project does **not** attempt to fully model or predict the 2024–2025 economic climate.  
 Instead, we use historical patterns to **contextualize** what is happening today.
 
-We connect our findings to the current recession by:
+We connect our findings to the future economic recessions by:
 
 - Identifying **recurring sector behaviors** across past downturns (resilience, vulnerability, cyclicality)  
 - Using these patterns as a **framework** to interpret early signs of the current recession  
