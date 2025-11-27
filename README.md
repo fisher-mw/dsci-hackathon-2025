@@ -4,6 +4,7 @@
 - Fisher
 - Neerja
 - Siluni
+- Minh
 
 ## Project Goal
 Use Vancouver business license data (1997–2024) to answer:
@@ -22,3 +23,6 @@ See folder descriptions in `/src`, `/data`, and `/notebooks`.
 ## Requirements
 - pandas
 - requests
+
+
+
