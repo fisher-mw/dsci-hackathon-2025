@@ -6,89 +6,7 @@
 - Siluni
 - Minh
 
-
-# 📉 Crash Tested  
-A data-driven study of how major Canadian financial crises affected business sectors, and how these historical patterns can be used to understand and evaluate the **current recession**.
-
-## Team Members
-- Fisher
-- Neerja
-- Siluni
-- Minh
-
-## 🧭 Project Aim
-
-This project investigates five major Canadian recessions to uncover:
-- The **causes** behind each downturn  
-- **Which business sectors grew or declined**  
-- **Why** certain industries were resilient while others collapsed  
-- **Patterns** that repeat across different crises  
-- **Predictors** of business vulnerability  
-
-By identifying these cross-crisis patterns, we connect them directly to **today’s recession**, allowing us to evaluate:
-- Which sectors are currently most vulnerable  
-- Which businesses are likely to remain stable  
-- Whether current economic trends resemble past downturns  
-- How historical behavior can inform tomorrow’s business decisions  
-
-The end goal is to build a clear, evidence-based framework for understanding and forecasting **how the current recession will impact businesses in cities like Vancouver**.
-
 ---
-
-## 🕰️ Crises Analyzed
-
-We examine the following major downturns:
-
-1. **Dot-Com Crash (2000–2002)**
-2. **Great Recession / Housing & Credit Crisis (2008–2009)**
-3. **Oil Price Crash (2014–2016)**
-4. **COVID-19 Shutdown Recession (2020–2021)**
-5. **Interest Rate & Inflation Shock (2022–2024)**
-
-## Datasets
-Links to Vancouver Open Data Portal:
-- Business Licenses (1997–2012)
-- Business Licenses (2013–2024)
-- Current Business Licenses (2024+)
-
-
-
-### For each crisis, we analyze:
-- Economic trigger  
-- Sector-level performance  
-- Business openings vs closures  
-- Explanation of trends based on economic conditions  
-- Long-term effects  
-
----
-
-## 🔗 Connecting Historical Crises to the Current Recession
-
-Our project does **not** attempt to fully model or predict the 2024–2025 recession.  
-Instead, we use historical patterns to **contextualize** what is happening today.
-
-We connect our findings to the current recession by:
-
-- Identifying **recurring sector behaviors** across past downturns (resilience, vulnerability, cyclicality)  
-- Using these patterns as a **framework** to interpret early signs of the current recession  
-- Comparing general economic signals today (slower growth, reduced openings) to typical historical trends  
-- Highlighting historically **vulnerable** and **resilient** sectors to provide context for potential pressures  
-- Building a foundation for future work that could directly analyze **current Vancouver business license data or economic indicators**  
-
----
-
-# DSCI Hackathon 2024 — Vancouver Business Licenses (1997–2024)
-
-## Team Members
-- Fisher
-- Neerja
-- Siluni
-- Minh
-
----
-
-# 📉 Crash Tested  
-A data-driven study of how major Canadian financial crises affected business sectors, and how these historical patterns can be used to understand and evaluate the **current recession**.
 
 ## 🧭 Project Aim
 
@@ -153,6 +71,9 @@ We connect our findings to the current recession by:
 - Building a foundation for future work that could directly analyze **current Vancouver business license data or economic indicators**  
 
 ---
+
+
+
 
 ## 🛠️ Technical Approach
 
