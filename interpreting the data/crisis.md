@@ -353,19 +353,3 @@ The model provides valuable **directional insights** into which business types f
 4. **Deep Learning**: LSTM networks to capture temporal dynamics of crisis progression
 5. **Causal Inference**: Difference-in-differences analysis of policy interventions (e.g., CERB impact)
 
----
-
-## Appendix: Code Quality and Reproducibility
-
-**Strengths:**
-- Clear variable naming and comments
-- Modular structure (feature engineering → training → evaluation)
-- Saves outputs (CSVs, visualizations) for external review
-
-**Areas for Improvement:**
-- Add logging for debugging
-- Implement cross-validation for more robust performance estimates
-- Version control for model artifacts (pickle files)
-- Unit tests for data processing functions
-
-**Reproducibility:** ✅ High—fixed random seed (42), clear dependencies, documented workflow
